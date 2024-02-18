@@ -1,0 +1,132 @@
+D:\visual sudio file\winElectricStore.cs\winElectricStore.cs\bin\Debug\winElectricStore.cs.exe.config
+D:\visual sudio file\winElectricStore.cs\winElectricStore.cs\bin\Debug\winElectricStore.cs.exe
+D:\visual sudio file\winElectricStore.cs\winElectricStore.cs\bin\Debug\winElectricStore.cs.pdb
+D:\visual sudio file\winElectricStore.cs\winElectricStore.cs\obj\Debug\winElectricStore.cs.csproj.AssemblyReference.cache
+D:\visual sudio file\winElectricStore.cs\winElectricStore.cs\obj\Debug\winElectricStore.cs.csproj.SuggestedBindingRedirects.cache
+D:\visual sudio file\winElectricStore.cs\winElectricStore.cs\obj\Debug\winElectricStore.cs.Form1.resources
+D:\visual sudio file\winElectricStore.cs\winElectricStore.cs\obj\Debug\winElectricStore.cs.Properties.Resources.resources
+D:\visual sudio file\winElectricStore.cs\winElectricStore.cs\obj\Debug\winElectricStore.cs.csproj.GenerateResource.cache
+D:\visual sudio file\winElectricStore.cs\winElectricStore.cs\obj\Debug\winElectricStore.cs.csproj.CoreCompileInputs.cache
+D:\visual sudio file\winElectricStore.cs\winElectricStore.cs\obj\Debug\winElectricStore.cs.exe
+D:\visual sudio file\winElectricStore.cs\winElectricStore.cs\obj\Debug\winElectricStore.cs.pdb
+D:\visual sudio file\winElectricStore.cs\winElectricStore.cs\obj\Debug\winElectricStore.cs.frmLogin.resources
+D:\visual sudio file\winElectricStore.cs\winElectricStore.cs\obj\Debug\winElectricStore.cs.frmDashBoard.resources
+D:\visual sudio file\winElectricStore.cs\winElectricStore.cs\obj\Debug\winElectricStore.cs.frmPurchase.resources
+D:\visual sudio file\winElectricStore.cs\winElectricStore.cs\obj\Debug\winElectricStore.cs.frmSelling.resources
+D:\visual sudio file\winElectricStore.cs\winElectricStore.cs\obj\Debug\winElectricStore.cs.frmItems.resources
+D:\visual sudio file\winElectricStore.cs\winElectricStore.cs\obj\Debug\winElectricStore.cs.frmService.resources
+D:\visual sudio file\winElectricStore.cs\winElectricStore.cs\obj\Debug\winElectricStore.cs.frmStock.resources
+D:\VP Assignment\winElectricStore.cs\winElectricStore.cs\bin\Debug\winElectricStore.cs.exe.config
+D:\VP Assignment\winElectricStore.cs\winElectricStore.cs\bin\Debug\winElectricStore.cs.exe
+D:\VP Assignment\winElectricStore.cs\winElectricStore.cs\bin\Debug\winElectricStore.cs.pdb
+D:\VP Assignment\winElectricStore.cs\winElectricStore.cs\obj\Debug\winElectricStore.cs.csproj.AssemblyReference.cache
+D:\VP Assignment\winElectricStore.cs\winElectricStore.cs\obj\Debug\winElectricStore.cs.csproj.SuggestedBindingRedirects.cache
+D:\VP Assignment\winElectricStore.cs\winElectricStore.cs\obj\Debug\winElectricStore.cs.Form1.resources
+D:\VP Assignment\winElectricStore.cs\winElectricStore.cs\obj\Debug\winElectricStore.cs.frmDashBoard.resources
+D:\VP Assignment\winElectricStore.cs\winElectricStore.cs\obj\Debug\winElectricStore.cs.frmItems.resources
+D:\VP Assignment\winElectricStore.cs\winElectricStore.cs\obj\Debug\winElectricStore.cs.frmLogin.resources
+D:\VP Assignment\winElectricStore.cs\winElectricStore.cs\obj\Debug\winElectricStore.cs.frmPurchase.resources
+D:\VP Assignment\winElectricStore.cs\winElectricStore.cs\obj\Debug\winElectricStore.cs.frmSelling.resources
+D:\VP Assignment\winElectricStore.cs\winElectricStore.cs\obj\Debug\winElectricStore.cs.frmService.resources
+D:\VP Assignment\winElectricStore.cs\winElectricStore.cs\obj\Debug\winElectricStore.cs.frmStock.resources
+D:\VP Assignment\winElectricStore.cs\winElectricStore.cs\obj\Debug\winElectricStore.cs.Properties.Resources.resources
+D:\VP Assignment\winElectricStore.cs\winElectricStore.cs\obj\Debug\winElectricStore.cs.csproj.GenerateResource.cache
+D:\VP Assignment\winElectricStore.cs\winElectricStore.cs\obj\Debug\winElectricStore.cs.csproj.CoreCompileInputs.cache
+D:\VP Assignment\winElectricStore.cs\winElectricStore.cs\obj\Debug\winElectricStore.cs.exe
+D:\VP Assignment\winElectricStore.cs\winElectricStore.cs\obj\Debug\winElectricStore.cs.pdb
+D:\VP Assignment\winElectricStore.cs\winElectricStore.cs\obj\Debug\winElectricStore.cs.frmWashingMachine.resources
+D:\VP Assignment\winElectricStore.cs\winElectricStore.cs\obj\Debug\winElectricStore.cs.frmWorkerDashBoard.resources
+D:\ggggghhkh\VP Assignment\winElectricStore.cs\winElectricStore.cs\bin\Debug\winElectricStore.cs.exe.config
+D:\ggggghhkh\VP Assignment\winElectricStore.cs\winElectricStore.cs\bin\Debug\winElectricStore.cs.exe
+D:\ggggghhkh\VP Assignment\winElectricStore.cs\winElectricStore.cs\bin\Debug\winElectricStore.cs.pdb
+D:\ggggghhkh\VP Assignment\winElectricStore.cs\winElectricStore.cs\obj\Debug\winElectricStore.cs.csproj.AssemblyReference.cache
+D:\ggggghhkh\VP Assignment\winElectricStore.cs\winElectricStore.cs\obj\Debug\winElectricStore.cs.csproj.SuggestedBindingRedirects.cache
+D:\ggggghhkh\VP Assignment\winElectricStore.cs\winElectricStore.cs\obj\Debug\winElectricStore.cs.Form1.resources
+D:\ggggghhkh\VP Assignment\winElectricStore.cs\winElectricStore.cs\obj\Debug\winElectricStore.cs.frmDashBoard.resources
+D:\ggggghhkh\VP Assignment\winElectricStore.cs\winElectricStore.cs\obj\Debug\winElectricStore.cs.frmFans.resources
+D:\ggggghhkh\VP Assignment\winElectricStore.cs\winElectricStore.cs\obj\Debug\winElectricStore.cs.frmItems.resources
+D:\ggggghhkh\VP Assignment\winElectricStore.cs\winElectricStore.cs\obj\Debug\winElectricStore.cs.frmLogin.resources
+D:\ggggghhkh\VP Assignment\winElectricStore.cs\winElectricStore.cs\obj\Debug\winElectricStore.cs.frmMotors.resources
+D:\ggggghhkh\VP Assignment\winElectricStore.cs\winElectricStore.cs\obj\Debug\winElectricStore.cs.frmPurchase.resources
+D:\ggggghhkh\VP Assignment\winElectricStore.cs\winElectricStore.cs\obj\Debug\winElectricStore.cs.frmSelling.resources
+D:\ggggghhkh\VP Assignment\winElectricStore.cs\winElectricStore.cs\obj\Debug\winElectricStore.cs.frmService.resources
+D:\ggggghhkh\VP Assignment\winElectricStore.cs\winElectricStore.cs\obj\Debug\winElectricStore.cs.frmStock.resources
+D:\ggggghhkh\VP Assignment\winElectricStore.cs\winElectricStore.cs\obj\Debug\winElectricStore.cs.frmWashingMachine.resources
+D:\ggggghhkh\VP Assignment\winElectricStore.cs\winElectricStore.cs\obj\Debug\winElectricStore.cs.frmWorkerDashBoard.resources
+D:\ggggghhkh\VP Assignment\winElectricStore.cs\winElectricStore.cs\obj\Debug\winElectricStore.cs.Properties.Resources.resources
+D:\ggggghhkh\VP Assignment\winElectricStore.cs\winElectricStore.cs\obj\Debug\winElectricStore.cs.csproj.GenerateResource.cache
+D:\ggggghhkh\VP Assignment\winElectricStore.cs\winElectricStore.cs\obj\Debug\winElectricStore.cs.csproj.CoreCompileInputs.cache
+D:\ggggghhkh\VP Assignment\winElectricStore.cs\winElectricStore.cs\obj\Debug\winElectricStore.cs.exe
+D:\ggggghhkh\VP Assignment\winElectricStore.cs\winElectricStore.cs\obj\Debug\winElectricStore.cs.pdb
+D:\VP Asg\winElectricStore.cs\winElectricStore.cs\bin\Debug\winElectricStore.cs.exe.config
+D:\VP Asg\winElectricStore.cs\winElectricStore.cs\bin\Debug\winElectricStore.cs.exe
+D:\VP Asg\winElectricStore.cs\winElectricStore.cs\bin\Debug\winElectricStore.cs.pdb
+D:\VP Asg\winElectricStore.cs\winElectricStore.cs\obj\Debug\winElectricStore.cs.csproj.AssemblyReference.cache
+D:\VP Asg\winElectricStore.cs\winElectricStore.cs\obj\Debug\winElectricStore.cs.csproj.SuggestedBindingRedirects.cache
+D:\VP Asg\winElectricStore.cs\winElectricStore.cs\obj\Debug\winElectricStore.cs.Form1.resources
+D:\VP Asg\winElectricStore.cs\winElectricStore.cs\obj\Debug\winElectricStore.cs.frmDashBoard.resources
+D:\VP Asg\winElectricStore.cs\winElectricStore.cs\obj\Debug\winElectricStore.cs.frmFans.resources
+D:\VP Asg\winElectricStore.cs\winElectricStore.cs\obj\Debug\winElectricStore.cs.frmItems.resources
+D:\VP Asg\winElectricStore.cs\winElectricStore.cs\obj\Debug\winElectricStore.cs.frmLogin.resources
+D:\VP Asg\winElectricStore.cs\winElectricStore.cs\obj\Debug\winElectricStore.cs.frmMotors.resources
+D:\VP Asg\winElectricStore.cs\winElectricStore.cs\obj\Debug\winElectricStore.cs.frmPurchase.resources
+D:\VP Asg\winElectricStore.cs\winElectricStore.cs\obj\Debug\winElectricStore.cs.frmSelling.resources
+D:\VP Asg\winElectricStore.cs\winElectricStore.cs\obj\Debug\winElectricStore.cs.frmService.resources
+D:\VP Asg\winElectricStore.cs\winElectricStore.cs\obj\Debug\winElectricStore.cs.frmStock.resources
+D:\VP Asg\winElectricStore.cs\winElectricStore.cs\obj\Debug\winElectricStore.cs.frmWashingMachine.resources
+D:\VP Asg\winElectricStore.cs\winElectricStore.cs\obj\Debug\winElectricStore.cs.frmWorkerDashBoard.resources
+D:\VP Asg\winElectricStore.cs\winElectricStore.cs\obj\Debug\winElectricStore.cs.Properties.Resources.resources
+D:\VP Asg\winElectricStore.cs\winElectricStore.cs\obj\Debug\winElectricStore.cs.csproj.GenerateResource.cache
+D:\VP Asg\winElectricStore.cs\winElectricStore.cs\obj\Debug\winElectricStore.cs.csproj.CoreCompileInputs.cache
+D:\VP Asg\winElectricStore.cs\winElectricStore.cs\obj\Debug\winElectricStore.cs.exe
+D:\VP Asg\winElectricStore.cs\winElectricStore.cs\obj\Debug\winElectricStore.cs.pdb
+E:\VP Asg\winElectricStore.cs\winElectricStore.cs\bin\Debug\winElectricStore.cs.exe.config
+E:\VP Asg\winElectricStore.cs\winElectricStore.cs\bin\Debug\winElectricStore.cs.exe
+E:\VP Asg\winElectricStore.cs\winElectricStore.cs\bin\Debug\winElectricStore.cs.pdb
+E:\VP Asg\winElectricStore.cs\winElectricStore.cs\obj\Debug\winElectricStore.cs.csproj.AssemblyReference.cache
+E:\VP Asg\winElectricStore.cs\winElectricStore.cs\obj\Debug\winElectricStore.cs.csproj.SuggestedBindingRedirects.cache
+E:\VP Asg\winElectricStore.cs\winElectricStore.cs\obj\Debug\winElectricStore.cs.Form1.resources
+E:\VP Asg\winElectricStore.cs\winElectricStore.cs\obj\Debug\winElectricStore.cs.frmDashBoard.resources
+E:\VP Asg\winElectricStore.cs\winElectricStore.cs\obj\Debug\winElectricStore.cs.frmFans.resources
+E:\VP Asg\winElectricStore.cs\winElectricStore.cs\obj\Debug\winElectricStore.cs.frmItems.resources
+E:\VP Asg\winElectricStore.cs\winElectricStore.cs\obj\Debug\winElectricStore.cs.frmLogin.resources
+E:\VP Asg\winElectricStore.cs\winElectricStore.cs\obj\Debug\winElectricStore.cs.frmMotors.resources
+E:\VP Asg\winElectricStore.cs\winElectricStore.cs\obj\Debug\winElectricStore.cs.frmPurchase.resources
+E:\VP Asg\winElectricStore.cs\winElectricStore.cs\obj\Debug\winElectricStore.cs.frmSelling.resources
+E:\VP Asg\winElectricStore.cs\winElectricStore.cs\obj\Debug\winElectricStore.cs.frmService.resources
+E:\VP Asg\winElectricStore.cs\winElectricStore.cs\obj\Debug\winElectricStore.cs.frmStock.resources
+E:\VP Asg\winElectricStore.cs\winElectricStore.cs\obj\Debug\winElectricStore.cs.frmWashingMachine.resources
+E:\VP Asg\winElectricStore.cs\winElectricStore.cs\obj\Debug\winElectricStore.cs.frmWorkerDashBoard.resources
+E:\VP Asg\winElectricStore.cs\winElectricStore.cs\obj\Debug\winElectricStore.cs.Properties.Resources.resources
+E:\VP Asg\winElectricStore.cs\winElectricStore.cs\obj\Debug\winElectricStore.cs.csproj.GenerateResource.cache
+E:\VP Asg\winElectricStore.cs\winElectricStore.cs\obj\Debug\winElectricStore.cs.csproj.CoreCompileInputs.cache
+E:\VP Asg\winElectricStore.cs\winElectricStore.cs\obj\Debug\winElectricStore.cs.exe
+E:\VP Asg\winElectricStore.cs\winElectricStore.cs\obj\Debug\winElectricStore.cs.pdb
+C:\Users\LENOVO\Downloads\VP AsgUz\VP Asg\winElectricStore.cs\winElectricStore.cs\obj\Debug\winElectricStore.cs.csproj.AssemblyReference.cache
+C:\Users\LENOVO\Downloads\VP AsgUz\VP Asg\winElectricStore.cs\winElectricStore.cs\obj\Debug\winElectricStore.cs.csproj.SuggestedBindingRedirects.cache
+C:\Users\LENOVO\Downloads\VP AsgUz\VP Asg\winElectricStore.cs\winElectricStore.cs\obj\Debug\winElectricStore.cs.exe
+C:\Users\LENOVO\Downloads\VP AsgUz\VP Asg\winElectricStore.cs\winElectricStore.cs\obj\Debug\winElectricStore.cs.pdb
+C:\Users\LENOVO\Downloads\VP AsgUz\VP Asg\winElectricStore.cs\winElectricStore.cs\bin\Debug\winElectricStore.cs.exe.config
+C:\Users\LENOVO\Downloads\VP AsgUz\VP Asg\winElectricStore.cs\winElectricStore.cs\bin\Debug\winElectricStore.cs.exe
+C:\Users\LENOVO\Downloads\VP AsgUz\VP Asg\winElectricStore.cs\winElectricStore.cs\bin\Debug\winElectricStore.cs.pdb
+C:\Users\LENOVO\Downloads\VP AsgUz\VP Asg\winElectricStore.cs\winElectricStore.cs\obj\Debug\winElectricStore.cs.Form1.resources
+C:\Users\LENOVO\Downloads\VP AsgUz\VP Asg\winElectricStore.cs\winElectricStore.cs\obj\Debug\winElectricStore.cs.frmDashBoard.resources
+C:\Users\LENOVO\Downloads\VP AsgUz\VP Asg\winElectricStore.cs\winElectricStore.cs\obj\Debug\winElectricStore.cs.frmFans.resources
+C:\Users\LENOVO\Downloads\VP AsgUz\VP Asg\winElectricStore.cs\winElectricStore.cs\obj\Debug\winElectricStore.cs.frmItems.resources
+C:\Users\LENOVO\Downloads\VP AsgUz\VP Asg\winElectricStore.cs\winElectricStore.cs\obj\Debug\winElectricStore.cs.frmLogin.resources
+C:\Users\LENOVO\Downloads\VP AsgUz\VP Asg\winElectricStore.cs\winElectricStore.cs\obj\Debug\winElectricStore.cs.frmMotors.resources
+C:\Users\LENOVO\Downloads\VP AsgUz\VP Asg\winElectricStore.cs\winElectricStore.cs\obj\Debug\winElectricStore.cs.frmPurchase.resources
+C:\Users\LENOVO\Downloads\VP AsgUz\VP Asg\winElectricStore.cs\winElectricStore.cs\obj\Debug\winElectricStore.cs.frmSelling.resources
+C:\Users\LENOVO\Downloads\VP AsgUz\VP Asg\winElectricStore.cs\winElectricStore.cs\obj\Debug\winElectricStore.cs.frmService.resources
+C:\Users\LENOVO\Downloads\VP AsgUz\VP Asg\winElectricStore.cs\winElectricStore.cs\obj\Debug\winElectricStore.cs.frmStock.resources
+C:\Users\LENOVO\Downloads\VP AsgUz\VP Asg\winElectricStore.cs\winElectricStore.cs\obj\Debug\winElectricStore.cs.frmWashingMachine.resources
+C:\Users\LENOVO\Downloads\VP AsgUz\VP Asg\winElectricStore.cs\winElectricStore.cs\obj\Debug\winElectricStore.cs.frmWorkerDashBoard.resources
+C:\Users\LENOVO\Downloads\VP AsgUz\VP Asg\winElectricStore.cs\winElectricStore.cs\obj\Debug\winElectricStore.cs.Properties.Resources.resources
+C:\Users\LENOVO\Downloads\VP AsgUz\VP Asg\winElectricStore.cs\winElectricStore.cs\obj\Debug\winElectricStore.cs.csproj.GenerateResource.cache
+C:\Users\LENOVO\Downloads\VP AsgUz\VP Asg\winElectricStore.cs\winElectricStore.cs\obj\Debug\winElectricStore.cs.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\Downloads\Electric Store 1.0 (1)\VP AsgUz\VP Asg\winElectricStore.cs\winElectricStore.cs\obj\Debug\winElectricStore.cs.csproj.AssemblyReference.cache
+C:\Users\LENOVO\Downloads\Electric Store 1.0 (1)\VP AsgUz\VP Asg\winElectricStore.cs\winElectricStore.cs\obj\Debug\winElectricStore.cs.csproj.SuggestedBindingRedirects.cache
+C:\Users\LENOVO\Downloads\Electric Store 1.0 (1)\VP AsgUz\VP Asg\winElectricStore.cs\winElectricStore.cs\obj\Debug\winElectricStore.cs.exe
+C:\Users\LENOVO\Downloads\Electric Store 1.0 (1)\VP AsgUz\VP Asg\winElectricStore.cs\winElectricStore.cs\obj\Debug\winElectricStore.cs.pdb
+E:\VP Asg\winElectricStore.cs\winElectricStore.cs\obj\Debug\winElectricStore.cs.frmaddCategory.resources
+E:\VP Asg\winElectricStore.cs\winElectricStore.cs\obj\Debug\winElectricStore.cs.frmCart.resources
